@@ -1,0 +1,110 @@
+{
+  "keyBlockHash": "0x91ea88c7dffa04495584f4b3e26c56e848cd5b42cc54436294608c9e9fb4988b",
+  "committee": [
+    {
+      "address": "34.86.247.10:7100",
+      "coinbase": "0x3b78f1176b3e075e623f8a6632744fa780911e56",
+      "public": "414a51a5892270effd8366c893775a5a35482175acf01a50c8fb4558f3bf27048d560a71a1c3b1f4a33afff2bb77fc9a419c8968f534c64e55f7e349d1267e9c"
+    },
+    {
+      "address": "34.73.185.67:7100",
+      "coinbase": "0xfec0a2a2c96c4db73720a270405b8b775710e64e",
+      "public": "525f4feedbbc2b468884c5049af83c9d5bce54026198abdeeb8b9e2fc9e0e806ce1e338e4b22e8463ee4c5d4af5a24bbd1d86351f70ffd74445b6f9d609a328c"
+    },
+    {
+      "address": "34.162.26.115:7100",
+      "coinbase": "0xdc8c87bed851d6de4c71919b08f1372d84bca6a0",
+      "public": "b4c2da0cbb94d98496db8c3a6b8dc97596add53a84bf00904ef0a6d24c4f890b17a991566abf1c7a10386945b4cd7186586142f24c1456a4a7ae4bc48527551e"
+    },
+    {
+      "address": "34.74.145.137:7100",
+      "coinbase": "0x2e38eaae34c430cfdefd0d48fa1af9a42094e03f",
+      "public": "fc845ffa9940dc98d98985b11d9eb7200d4a8e555044295cd0a4893bfc989d088632bef2d1094146a941b9d3e6b93f273fdb3f09ea8d2a7de9cbdfda62dcc40d"
+    },
+    {
+      "address": "34.86.70.215:7100",
+      "coinbase": "0xefe1cdf29f58f9fd64426ad6d454f5a4b50e42a7",
+      "public": "16bd59c6990291f8cd7d8f989bbf379268bc549f766b4679c34f8d6b3b243023294bccf2dec33f835bcb5875b19dcdaef2ee74645e6205c4c9b0945558410a0f"
+    },
+    {
+      "address": "34.162.165.72:7100",
+      "coinbase": "0xd503a103176f6aaf04b74e5e5980cd9f147c8d85",
+      "public": "af8af210df0f79765565f0e254915485b22ed58ed056e82a55eced5187fa8823f4c0ef26aa2c47464ba3f608461cd94f937d21e43b6d011cf3919439d34c2588"
+    },
+    {
+      "address": "34.21.109.77:7100",
+      "coinbase": "0x4b0c49bb1e59279aac6c85e2e0bebff2d5f8331e",
+      "public": "f15de6c9107d4e8fe4e2cf6aef21cf820e587d20e0ab3452d9708bfefde29c0028cfdc7120deade9bfee05ac809024b88ac71f63aaf295aad17ed1f199fb5b01"
+    },
+    {
+      "address": "35.190.172.118:7100",
+      "coinbase": "0x07584d7713527f75b8b8a36442b68e91accfef16",
+      "public": "054368ee9faa1b03cf438985be8c46fb347de5f965220f66dbc7b09df7d0dc00ca58b30629d245446ae0dfe7d6c74a63179a39f3811ea42b0076313115b21f0a"
+    },
+    {
+      "address": "35.194.71.135:7100",
+      "coinbase": "0xd61c46e0f0cee3c47733ce75c8f42b272f36d537",
+      "public": "a60d15a5f5c7f5fc503d887ba20f98805cb18a974edb214f7811cae578d95218ee5607ef3221166380aa5cd6a7eecb6bb5abaead06eea32f0171e2589fcb4606"
+    },
+    {
+      "address": "34.162.47.151:7100",
+      "coinbase": "0xb447c6a327a946ba7fd72b8e9a88ded8be718bd4",
+      "public": "a6cdae12eaceb15a0e6b87aff53ea18217e03e7ff5a445b3214b66f7748bcb0a3cf89faedfd8c1b92bf0e68d92ad37bb38b16187bde913e37ad882bb2e47e30b"
+    },
+    {
+      "address": "34.138.163.152:7100",
+      "coinbase": "0x566c0dc5dc40c9b17c0afcf263dbfee0700db44a",
+      "public": "46805f6f7d4dabe35283bdfb4d2a5faead56062178d28c6d7a5ddc87135f3d03ecb068c029087cc9960e15b4311f2b4b29be92578a25b6000bcffb3dc6753a86"
+    },
+    {
+      "address": "34.86.177.202:7100",
+      "coinbase": "0x81bf6e24690304ab9fd37df16801cd3ddcc972b9",
+      "public": "38912c9e09351e322c28e13b8cd526fba7d66511119cbaa72d98b69dbb05431d2b9eb061160b28585c4925b9c457b6967a49f3933098d78f00f2072a3fa9538d"
+    },
+    {
+      "address": "35.237.103.143:7100",
+      "coinbase": "0xae07ed05b4bf7c61622e96601b3eb79811cf9381",
+      "public": "fefae141bc40a10561d77bcc7c59c997fccfa1dc1eb39f05dbb1b2e7bf1fde06dd98ffcb4c640a4b9267ef03e3985bdb1cd4fd7cce41f2edd4a7f4604a868980"
+    },
+    {
+      "address": "35.245.7.198:7100",
+      "coinbase": "0x5a144d7cddef50319d313cc48c2d2ee2370cde45",
+      "public": "ee6e826fbf80809822e8595b09680195f9c2c56920407de6a2c7f406eaa116048b64106dce414028f038dedab046990f1aa69d7b662aa78d603ead477a13d514"
+    },
+    {
+      "address": "34.162.39.181:7100",
+      "coinbase": "0x127b4499137e142a2ec5293fb9545df6e4e2972a",
+      "public": "747bc1149feeca10da8efb66d1135225c744476878b20cb8c3c284f1afec9f20eb9290b1f4b44af68718cefe3eb8b4dc827130e58e39fe015b574bd413ec7f8e"
+    },
+    {
+      "address": "34.48.232.51:7100",
+      "coinbase": "0x055b1ac0f3074cbb305611add312ef1dd0866600",
+      "public": "b79640ffa1eb4a4d8acdc45ab0ef4e85a7ff3c0430b424c33f9c3659479198249dba85304d9c317741352d362c6cbbcdeabee5db2c234681e55d0a27253a9686"
+    },
+    {
+      "address": "34.138.102.66:7100",
+      "coinbase": "0x286d569f4643c2efd406070f9f232c83e94f5397",
+      "public": "4dcb1599f4231ad5cbcc08a10e565b62fff4e120fbd69180e19890d69f57c00627ebedc1bd25e06dabd8af4697b9696b81250683995cee722a2b7cb84554cf81"
+    },
+    {
+      "address": "35.245.190.162:7100",
+      "coinbase": "0x22900f2da1b97df2747f513cd9f9a1773263f685",
+      "public": "4099ef756302bcbbd9f7e0e30346dfacbd9a9f77528b5ba719e0ecff8708610d67ac69f8bb43c8e0c53871285cd1b52f60b687159ad4a2a2353c127cbb2dc0a0"
+    },
+    {
+      "address": "34.162.244.167:7100",
+      "coinbase": "0x4306475860e9620dbe709a94133e6f1a81a86020",
+      "public": "053f1af0ef2d849c2c18e49c735e501a8fd0ee29b7063ce75297dcea0ef5b41554486ca7e823de49b548302aa1f26b1dd1fa094980989ba648edf1d625343918"
+    },
+    {
+      "address": "34.74.51.4:7100",
+      "coinbase": "0xc68d5bf8bea8de16564cf772bb1036adfc380507",
+      "public": "0db64baa67e2dfe0819c4a9d56856c6b0cfd0c7d6b2fddc400ae092b11bacd185d7e932bb3ee18bb0902da0bb47f9ebe183f3845d90b635275b5185f63092209"
+    },
+    {
+      "address": "34.138.85.69:7100",
+      "coinbase": "0x5e1cedf0558c9f6664c1d2b689784f61a676775a",
+      "public": "cd602db3ac1e85d18f0ad38ff9856615907f1833d8314f9d63f5b48ed0ef1e0d2ef0e6efbd609a72bc2b2807a182c21fe7357d5aa9a9fafdf1c7e2eed532bb87"
+    }
+  ]
+}
